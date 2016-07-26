@@ -1747,4 +1747,4 @@ class MutationSummary {
     return summaries;
   }
 }
-
+export = MutationSummary;
